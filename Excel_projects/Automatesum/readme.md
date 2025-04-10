@@ -47,7 +47,13 @@ The workbook contains **four worksheets**, each with a column (Column **F**) ded
 ## 🖼️ Demo
 
 Here is the quick preview of automation in action
+![Auto sum Demo](Excel_projects/Automatesum/Automatesum_demo.gif)
 
+## 🧾 VBA Code Preview
+
+The macro used to automate the SUM function looks like this:
+
+![VBA Code Screenshot]
 
 ---
 
