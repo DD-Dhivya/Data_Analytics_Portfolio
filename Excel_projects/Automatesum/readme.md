@@ -53,7 +53,7 @@ Here is the quick preview of automation in action
 
 The macro used to automate the SUM function looks like this:
 
-![VBA Code Screenshot]
+![VBA Code Screenshot](Excel_projects/Automatesum/Automatesum_vbacode.png)
 
 ---
 
