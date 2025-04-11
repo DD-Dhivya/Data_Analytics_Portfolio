@@ -25,7 +25,7 @@ All of this is triggered through a single macro procedure: `FinalReportLoop`.
 ## ⚙️ Key Features
 
 - 🔁 **Loop through all worksheets** dynamically
-- 📌 **Call reusable procedures** (like `AddHeaders`, `FormatHeaders`, `AutomateSum`)
+- 📌 **Call reusable procedures** (like `AddHeaders`, `FormatData`, `AutoSum`)
 - 📋 **Copy and paste** data between sheets
 - ↔️ **Move between worksheets**
 - 📐 **Offset to find the right row** to paste new data in the Yearly Report
@@ -35,7 +35,7 @@ All of this is triggered through a single macro procedure: `FinalReportLoop`.
 
 ## 📁 Files Included
 
-- `final-report-generator.xlsm`: Macro-enabled workbook with all VBA code and worksheets
+- `report_loop.xlsm`: Macro-enabled workbook with all VBA code and worksheets
 - `README.md`: This documentation
 
 
@@ -43,7 +43,7 @@ All of this is triggered through a single macro procedure: `FinalReportLoop`.
 
 ## 🚀 How to Use
 
-1. Open `final-report-generator.xlsm` in Excel
+1. Open `report_loop.xlsm` in Excel
 2. Enable macros when prompted
 3. Go to the **Developer tab** → **Macros**
 4. Select `FinalReportLoop` → Click **Run**
@@ -68,7 +68,7 @@ All of this is triggered through a single macro procedure: `FinalReportLoop`.
 This Demo shows the formatting in the 4th worksheet. The total sum is generated and the data is copied to the 
 'Yearly report' worksheet.
 In the 'Yearly Report' worksheet, column(C:F) is adjusted to autofit the values 
-[(https://github.com/DD-Dhivya/Data_Analytics_Portfolio/blob/main/Excel_projects/report_loop/Reportloop_demo.gif)]
+![Final Report VBA Demo](https://github.com/DD-Dhivya/Data_Analytics_Portfolio/blob/main/Excel_projects/report_loop/Reportloop_demo.gif)
 
-```markdown
+
 
