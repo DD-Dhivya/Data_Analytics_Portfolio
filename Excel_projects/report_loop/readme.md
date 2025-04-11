@@ -65,8 +65,10 @@ All of this is triggered through a single macro procedure: `FinalReportLoop`.
 ---
 
 ## 🖼️ Demo
-
-*(Insert a GIF or screenshot of the macro in action here)*
+This Demo shows the formatting in the 4th worksheet. The total sum is generated and the data is copied to the 
+'Yearly report' worksheet.
+In the 'Yearly Report' worksheet, column(C:F) is adjusted to autofit the values 
+(https://github.com/DD-Dhivya/Data_Analytics_Portfolio/blob/main/Excel_projects/report_loop/Reportloop_demo.gif)
 
 ```markdown
 
